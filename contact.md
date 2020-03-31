@@ -24,16 +24,4 @@ Belkirk College of Engineering is available:
 {% include address.html %}
 
 
-<form name="comments" method="POST" netlify-honeypot="hpfield" netlify>
-  <div class="hpot">
-    <label>Leave this field empty: <input name="hpfield"></label>
-  </div>
-  <label>Comments:
-    <textarea name="comments"></textarea>
-  </label>
-</form>
-
-// style.css
-.hpot {
-  display: none;
-}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeYD_g01bERLfRDXEHl6QoQGw2RzKqgKdOm8i9pXhKXKB8JBQ/viewform?embedded=true" width="640" height="382" frameborder="0" marginheight="0" marginwidth="0">Chargement…</iframe>
