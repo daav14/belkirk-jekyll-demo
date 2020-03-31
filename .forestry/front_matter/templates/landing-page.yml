@@ -79,5 +79,6 @@ fields:
   hidden: true
   default: home
 pages:
+- Club/planning-entraînements.md
 - index.md
 - ma-page-de-test.md
