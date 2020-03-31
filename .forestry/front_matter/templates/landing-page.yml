@@ -79,6 +79,7 @@ fields:
   hidden: true
   default: home
 pages:
+- Club/arbitres.md
 - Club/dirigeants.md
 - Club/inscription.md
 - Club/planning-entraînements.md
