@@ -80,5 +80,6 @@ fields:
   default: home
 pages:
 - Club/planning-entraînements.md
+- Club/projet-sportif.md
 - index.md
 - ma-page-de-test.md
