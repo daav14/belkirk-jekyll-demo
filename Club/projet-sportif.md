@@ -2,7 +2,7 @@
 heading: Belkirk College
 sub_heading: Engineering and Health Sciences
 layout: home
-title: PROJET SPORTIF
+title: Projet sportif
 banner_image: ''
 hero_button:
   text: ''
