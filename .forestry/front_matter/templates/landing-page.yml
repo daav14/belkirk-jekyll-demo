@@ -79,6 +79,7 @@ fields:
   hidden: true
   default: home
 pages:
+- Club/inscription.md
 - Club/planning-entraînements.md
 - Club/projet-sportif.md
 - index.md
